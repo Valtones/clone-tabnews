@@ -1,6 +1,6 @@
 function Home() {
 	return<h1>
-		Opa Deu certo galera!
+		Vamos fazer essa parada funcionar!!!
 				
 	</h1>
 }
