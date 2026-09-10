@@ -1,7 +1,7 @@
 function Home() {
 	return<h1>
-		Meire se este teste estiver ok me mande algo no whatsapp
-		
+		Veja agora se mudou o texto?
+				
 	</h1>
 }
 export default Home;
