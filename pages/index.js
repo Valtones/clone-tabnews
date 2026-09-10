@@ -1,6 +1,6 @@
 function Home() {
 	return<h1>
-		Veja agora se mudou o texto?
+		Valter Ferreira Gomes
 				
 	</h1>
 }
