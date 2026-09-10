@@ -1,6 +1,6 @@
 function Home() {
 	return<h1>
-		Valter Ferreira Gomes
+		Opa Deu certo galera!
 				
 	</h1>
 }
